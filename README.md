@@ -28,4 +28,4 @@ Market finance (structured products, derivatives, credit, volatility) · LLM / a
 
 ### Contact
 
-LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
+LinkedIn: [youssef-el-bqaq](https://www.linkedin.com/in/youssef-el-bqaq/)
