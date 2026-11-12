@@ -1,4 +1,4 @@
-## Youssef
+## Youssef EL BQAQ
 
 **Senior quantitative developer and data scientist in capital markets, specialising in LLM and agentic AI systems for trading workflows.**
 
